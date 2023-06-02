@@ -15,12 +15,12 @@ Road Accident dashboard for year 2021 and 2022.
 
 # Secondary KPI's 
     -> Total Casualties with respect to vehicle type
-    ->Monthly trend showing comparison of casualties for Current Year and Previous Year
-    ->Maximum casualties by Road Type
-    ->Casulation by Day/Night
-    ->Distribution of total casualties by Road Surface
-    ->Filter Panal
-    ->Canulation by Rand Fy
-    ->Casulation by Rob
-    ->Uchana
-    ->Relation between Casualties by Area/ Location & by Day/Night
+    -> Monthly trend showing comparison of casualties for Current Year and Previous Year
+    -> Maximum casualties by Road Type
+    -> Casulation by Day/Night
+    -> Distribution of total casualties by Road Surface
+    -> Filter Panal
+    -> Canulation by Rand Fy
+    -> Casulation by Rob
+    -> Uchana
+    -> Relation between Casualties by Area/ Location & by Day/Night
