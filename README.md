@@ -3,6 +3,17 @@ Number of rows - 3.07 Million
 
 Number of field - 21
 
+Successfully conducted comprehensive analysis of road accident data using Excel.
+
+Utilized advanced Excel functions, formulas, and tools to extract meaningful insights from large datasets.
+
+Identified key trends, patterns, and correlations in the data to understand the factors contributing to road accidents.
+
+Developed interactive dashboards and visualizations to effectively communicate the findings to stakeholders.
+
+Implemented data cleansing and preprocessing techniques to ensure data accuracy and reliability.
+
+
 # Dashboard
 ![Dashboard](https://github.com/HarshChandravanshi/Road_Accident_data_Analytics_using_Excel/assets/90752233/12cb99e3-dfd5-47c5-ae5a-a238c7d73bb7)
 
